@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Films</string>
+    <string name="alert_text_view_empty_list">Совпадений не найдено.</string>
+    <string name="alert_text_view_error">Ошибка. Проверьте интернет соединение.</string>
+    <string name="internet_is_missing">Отсутствует подключение к интернету</string>
+    <string name="year">Год: %1$s</string>
+    <string name="rating">Рейтинг: %1$s</string>
+    <string name="main_label">Главная</string>
+    <string name="film">Фильм</string>
+</resources>
